@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.3",
+    "jsonwebtoken": "^9.0.2",
+    "ms": "^2.1.3",
+    "node-jose": "^2.2.0"
+  }
+}
